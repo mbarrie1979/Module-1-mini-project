@@ -1,0 +1,16 @@
+* {
+    background-color: #00BBF9;
+}
+
+h1 {
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    color: #F15BB5;
+}
+
+header {
+    display: flex;
+   justify-content: center;
+   /* align-items: center; */
+}
